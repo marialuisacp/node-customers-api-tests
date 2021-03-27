@@ -55,15 +55,29 @@ To execute unit tests, run:
 npm run test
 `````
 
+![Image unit test results](docs/unit_testing.png)
+
+
 To run coverage to unit tests, run:
 
 ````
 npm run coverage
 `````
+![Image unit test results](docs/coverage_tests.png)
+
 
 To run contract tests, run:
 
 ````
+npm start
+````
+
+and in other terminal, run:
+
+````
 npm run contract
 `````
+
+
+![Image unit test results](docs/contract_tests.png)
 
