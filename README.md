@@ -6,22 +6,22 @@ The main libraies and resources used in this project was:
 
 Development 
 
-* Nodejs
-* MongoDB
-* express
+* [Nodejs](https://nodejs.org/en/)
+* [MongoDB](https://www.mongodb.com/)
+* [Express](https://expressjs.com/)
 
 Testing
 
-* Mocha
-* Chai
-* Sinon
-* Sinon-mongo
+* [Mocha](https://mochajs.org/)
+* [Chai](https://www.chaijs.com/)
+* [Sinon](https://sinonjs.org/)
+* [Sinon-mongo](https://github.com/DaniJG/sinon-mongo)
 
 Contract Testing
 
-* Supertest
-* Joi
-* Chai
+* [Supertest](https://www.npmjs.com/package/supertest)
+* [Joi](https://www.npmjs.com/package/joi)
+* [Chai](https://www.chaijs.com/)
 
 ### Begining
 
