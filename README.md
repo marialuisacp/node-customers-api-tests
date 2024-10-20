@@ -1,4 +1,23 @@
-# NodeJS Customers API - example
+# Customers API
+
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
+![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white)
+![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+![Mocha](https://img.shields.io/badge/-mocha-%238D6748?style=for-the-badge&logo=mocha&logoColor=white)
+
+### Status 
+
+#### Deploy status
+![Heroku-pipe](https://raw.githubusercontent.com/gregsadetsky/heroku-ci-badge/master/badges/succeeded.svg)
+
+#### Tests coverage
+| Statements                  | Branches                | Functions                 | Lines             |
+| --------------------------- | ----------------------- | ------------------------- | ----------------- |
+| ![Statements](./dev_scripts/output/statements.svg) | ![Branches](./dev_scripts/output/branches.svg) | ![Functions](./dev_scripts/output/functions.svg) | ![Lines](./dev_scripts/output/lines.svg) |
+
 
 This project is a customers API built in NodeJs. The project access to non relational database using MongoDB. Below you see the main steps to run project and run automatization tests. 
 

@@ -1,0 +1,12 @@
+
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="114" height="28" role="img" aria-label="LINES: 67%">
+  <title>LINES: 67%</title>
+  <g shape-rendering="crispEdges">
+    <rect width="60.25" height="28" fill="#555"/>
+    <rect x="60.25" width="53.75" height="28" fill="#4c1"/>
+  </g>
+  <g fill="#fff" text-anchor="middle" font-family="Verdana,Geneva,DejaVu Sans,sans-serif" text-rendering="geometricPrecision" font-size="100">
+    <text transform="scale(.1)" x="301.25" y="175" textLength="362.5" fill="#fff">LINES</text>
+    <text transform="scale(.1)" x="871.25" y="175" textLength="297.5" fill="#fff" font-weight="bold">67%</text>
+  </g>
+</svg>
