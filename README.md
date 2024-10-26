@@ -156,3 +156,6 @@ npm run contract
 
 ![Image unit test results](docs/contract_tests.png)
 
+## Contact
+
+Created by: [@marialuisacp](https://github.com/marialuisacp)  -  [contato@malu.dev](mail:contato@malu.dev)
