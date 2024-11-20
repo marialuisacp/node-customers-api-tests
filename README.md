@@ -162,14 +162,6 @@ npm run contract
 
 ![Image unit test results](docs/contract_tests.png)
 
-
-**Test Coverage**
-
-| Statements                  | Branches                | Functions                 | Lines             |
-| --------------------------- | ----------------------- | ------------------------- | ----------------- |
-| ![Statements](./badges_output/statements.svg) | ![Branches](./badges_output/branches.svg) | ![Functions](./badges_output/functions.svg) | ![Lines](./badges_output/lines.svg) |
-
-
 ## Contact
 
 Created by: [@marialuisacp](https://github.com/marialuisacp)  -  [contato@malu.dev](mail:contato@malu.dev)
