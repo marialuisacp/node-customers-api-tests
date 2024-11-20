@@ -123,6 +123,12 @@ To run the project, you can execute this command below:
 npm start
 ````
 
+## Quality and test automation
+
+See below the project's unit test coverage and how to run the tests:
+
+![Lines](./badges_output/lines_chart.svg) ![Statements](./badges_output/statements_chart.svg)  ![Branches](./badges_output/branches_chart.svg)  ![Functions](./badges_output/functions_chart.svg) 
+
 ### Tests
 
 To execute unit tests, run:
@@ -155,6 +161,14 @@ npm run contract
 `````
 
 ![Image unit test results](docs/contract_tests.png)
+
+
+**Test Coverage**
+
+| Statements                  | Branches                | Functions                 | Lines             |
+| --------------------------- | ----------------------- | ------------------------- | ----------------- |
+| ![Statements](./badges_output/statements.svg) | ![Branches](./badges_output/branches.svg) | ![Functions](./badges_output/functions.svg) | ![Lines](./badges_output/lines.svg) |
+
 
 ## Contact
 
